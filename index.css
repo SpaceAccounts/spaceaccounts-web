@@ -1,0 +1,23 @@
+#main-wrapper {
+    background-image: url('./space1.jpg');
+    background-size: cover;
+    text-align: center;
+    padding-top: 13%;
+    width: 100%;
+    height: 100%;
+}
+
+.wrapper {
+    padding:23pt;
+}
+
+#main-material {
+    border-radius: 23pt;
+    background-color: rgba(254,254,254,0.83);
+    padding: 23pt;
+    max-width: 555px;
+}
+
+#main-material p {
+    color: #111111;
+}
