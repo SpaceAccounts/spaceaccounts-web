@@ -1,0 +1,39 @@
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+#mainBox {
+  position:auto;
+  top:50%;
+}
+
+body
+{
+ background: url('../../space1.jpg') repeat center center fixed;
+ background-size: cover;
+     background-repeat: repeat;
+    width: 100%;
+    height: 100%;
+
+      -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.wrapper {
+    padding:23pt;
+}
+
+#main-material {
+    border-radius: 23pt;
+    background-color: rgba(254,254,254,0.83);
+    padding: 23pt;
+    max-width: 555px;
+}
+
+#main-material p {
+    color: #111111;
+}
