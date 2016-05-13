@@ -1,6 +1,9 @@
-# BootStrapUI-App
+# Space Accounts
 
+This is the github page for the website for SpaceAccounts.com or SpaceAccounts.github.io . 
 
-This project is a BootStrap UI app template. it's got UI Router added to the project and angular loading bar. I will be adding more modules and pieces to the project as I go. 
+Space Accounts is a SaaS cloud invoicing and online payment system also accepting Bitcoins. 
 
-I have created a base frontpage (home) and a About page. 
+Eventually I'll build this out to a full double entry accounting system with a bitcoin capital gains ledger, CRM, Payroll and all that jazz.... but first the foundation. ;) 
+
+Feel free to join or email me at SpaceTechnologiesInc@gmail.com
